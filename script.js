@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", function() {
   // Simulate a delay to hide the spinner after a certain time (e.g., 3 seconds)
   setTimeout(function() {
     spinner.style.display = 'none'; // Hide the spinner after 3 seconds
-  }, 2000); // Adjust the time as needed
+  }, 1000); // Adjust the time as needed
 });
 
 
